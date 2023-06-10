@@ -1,0 +1,42 @@
+const devs = [
+  {
+    id: 1,
+    name: "Emran Hasan",
+    age: 40,
+    skill: "IOS",
+    location: "Mirpur",
+    income: 10000,
+  },
+  {
+    id: 2,
+    name: "Mahdi",
+    age: 5,
+    skill: "Laravel",
+    location: "Narsinghdi",
+    income: 20000,
+  },
+  {
+    id: 3,
+    name: "Kamal",
+    age: 20,
+    skill: "Django",
+    location: "Uttara",
+    income: 25000,
+  },
+  {
+    id: 4,
+    name: "Kamal",
+    age: 50,
+    skill: "Wordpress",
+    location: "Badda",
+    income: 5000,
+  },
+  {
+    id: 5,
+    name: "Raiyan",
+    age: 6,
+    skill: "Laravel",
+    location: "Mirpur",
+    income: 70000,
+  },
+];
